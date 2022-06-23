@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1481047704 source:c:\users\dylan\desktop\codeblocks\naipecrush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481046013 c:\users\dylan\desktop\codeblocks\naipecrush\cursor.h
+
+1481250375 source:c:\users\dylan\desktop\codeblocks\naipecrush\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481538984 source:c:\users\dylan\desktop\naipecrush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481515186 c:\users\dylan\desktop\naipecrush\cursor.h
+
+1481257751 source:c:\users\dylan\desktop\naipecrush1\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481046013 c:\users\dylan\desktop\naipecrush1\cursor.h
+
+1481262633 source:c:\users\dylan\desktop\naipecrush1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481515976 source:c:\users\dylan\desktop\naipecrush\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"cursor.h"
+
+1481416546 source:c:\users\latretz\desktop\naipe\naipecrush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481046013 c:\users\latretz\desktop\naipe\naipecrush\cursor.h
+
+1481421818 source:c:\users\latretz\desktop\naipe\naipecrush\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"cursor.h"
+
+1481515974 source:c:\users\kelly\desktop\naipe\naipecrush\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"cursor.h"
+
+1481515185 c:\users\kelly\desktop\naipe\naipecrush\cursor.h
+
+1481515647 source:c:\users\kelly\desktop\naipe\naipecrush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481548252 source:c:\users\kelly\desktop\naipecrush\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"cursor.h"
+
+1481543763 c:\users\kelly\desktop\naipecrush\cursor.h
+
+1481545613 source:c:\users\kelly\desktop\naipecrush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481548261 source:c:\users\kelly\desktop\naipecrush\final.c
+
+1481548252 source:c:\users\kelly\desktop\naipecrush ready\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"cursor.h"
+
+1481543763 c:\users\kelly\desktop\naipecrush ready\cursor.h
+
+1481545613 source:c:\users\kelly\desktop\naipecrush ready\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"cursor.h"
+
+1481548470 source:c:\users\kelly\desktop\naipecrush ready\final.c
+
